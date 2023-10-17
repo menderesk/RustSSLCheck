@@ -1,0 +1,8 @@
+[package]
+name = "faassslcheck"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lettre = "0.11.0"
+ssl-expiration2 = "0.4.0"
